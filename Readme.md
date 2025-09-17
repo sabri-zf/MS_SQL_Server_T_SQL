@@ -28,5 +28,5 @@ T-SQL supports both DML and DDL operations, allowing developers to not only quer
 </p>
 <p>
 T-SQL provides a range of security features, including the ability to define user roles, grant permissions, and implement encryption. This ensures that data is accessed and modified only by authorized users, contributing to a secure database environment.
-Overall T-SQL is a powerful and versatile language that is widely used in enterprise environments for managing and manipulating relational databases.
+Overall T-SQL is a powerful and versatile language that is widely used in enterprise environments for managing and manipulating relational databases. definition
 </p>
