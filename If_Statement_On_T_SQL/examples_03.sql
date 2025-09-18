@@ -14,6 +14,5 @@ insert into Sales.Orders (id) values ('Salah');
 
 set @Error_Sudeen = @@ERROR;
 
-
 if( not(@Error_Sudeen = 0))
 	print 'ERROR : An Error Occurred With Number =>'+ cast(@Error_Sudeen as Varchar); 
